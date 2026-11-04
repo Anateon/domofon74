@@ -1,0 +1,32 @@
+name: Ошибка в приложении
+description: Сообщите, что не работает, без личных данных и кадров камеры.
+title: "[Ошибка] "
+body:
+  - type: markdown
+    attributes:
+      value: "Не публикуйте адрес, телефон, номер договора, токены, подписанные ссылки на видео или перехваты трафика. Скриншоты — только с закрытыми личными данными и кадрами камеры."
+  - type: input
+    id: app_version
+    attributes:
+      label: Версия приложения
+      placeholder: "Например, 1.0.0"
+    validations:
+      required: true
+  - type: input
+    id: android_version
+    attributes:
+      label: Модель телефона и версия Android
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Как повторить
+      description: Действия, ожидаемый результат и фактический результат.
+    validations:
+      required: true
+  - type: textarea
+    id: error
+    attributes:
+      label: Текст ошибки
+      description: Только обезличенный текст. Полные сетевые журналы не нужны.

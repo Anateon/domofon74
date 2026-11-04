@@ -1,0 +1,53 @@
+Домофон 74 — лицензии и уведомления
+
+Copyright (c) 2026 Anateon.
+Код приложения: MIT License (Project-MIT.txt).
+Лицензии библиотек сохраняются и не заменяются лицензией приложения.
+
+AndroidX (включая Compose, Activity, Core, Lifecycle, WorkManager, Room,
+SQLite, NavigationEvent) и Media3 / ExoPlayer:
+The Android Open Source Project и участники AndroidX.
+Apache License 2.0 — Apache-2.0.txt.
+https://github.com/androidx/androidx
+https://github.com/androidx/media
+
+Kotlin standard library 2.4.10:
+JetBrains s.r.o. and Kotlin Programming Language contributors.
+Apache License 2.0 — Kotlin-LICENSE.txt.
+https://github.com/JetBrains/kotlin/tree/v2.4.10
+
+Дополнительные части Kotlin standard library:
+- GWT, Google Inc.: Kotlin-GWT.txt (Apache 2.0).
+- Guava, The Guava Authors: Kotlin-Guava.txt (Apache 2.0).
+- ThreeTen Backport, Stephen Colebourne & Michael Nascimento Santos:
+  Kotlin-ThreeTenBP.txt (BSD 3-Clause, полный исходный copyright включён).
+- Boost math functions, Eric Ford & Hubert Holin:
+  Kotlin-Boost.txt (Boost Software License 1.0).
+Основание: https://github.com/JetBrains/kotlin/blob/v2.4.10/license/README.md
+
+kotlinx.coroutines 1.11.0:
+JetBrains s.r.o. and Kotlin Programming Language contributors.
+Apache License 2.0 — Coroutines-LICENSE.txt.
+https://github.com/Kotlin/kotlinx.coroutines/tree/1.11.0
+
+kotlinx.serialization 1.7.3 и JetBrains Annotations 23.0.0:
+JetBrains s.r.o. and contributors.
+Apache License 2.0 — Apache-2.0.txt.
+https://github.com/Kotlin/kotlinx.serialization
+https://github.com/JetBrains/java-annotations
+
+Guava 33.3.1-android, failureaccess 1.0.2, listenablefuture:
+The Guava Authors. Apache License 2.0 — Apache-2.0.txt.
+https://github.com/google/guava/tree/v33.3.1
+
+JSpecify 1.0.0:
+The JSpecify Authors. Apache License 2.0 — JSpecify-LICENSE.txt.
+https://github.com/jspecify/jspecify/tree/v1.0.0
+
+Embedded-NOTICES.txt содержит полные исходные LICENSE / NOTICE из
+runtime JAR/AAR, включая NOTICE из AndroidX concurrent-futures-ktx.
+RUNTIME_DEPENDENCIES.txt содержит разрешённые Maven-координаты релиза,
+включая транзитивные модули и платформенные метаданные.
+upstream-sources.json содержит публичные источники полных текстов лицензий.
+
+Все перечисленные файлы находятся в этом же каталоге assets/licenses/ APK.

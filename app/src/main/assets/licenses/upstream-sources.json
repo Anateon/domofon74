@@ -1,0 +1,10 @@
+{
+  "Apache-2.0.txt": "https://raw.githubusercontent.com/google/guava/v33.3.1/LICENSE",
+  "Kotlin-LICENSE.txt": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.4.10/license/LICENSE.txt",
+  "Kotlin-ThreeTenBP.txt": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.4.10/license/third_party/threetenbp_license.txt",
+  "Kotlin-Boost.txt": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.4.10/license/third_party/boost_LICENSE.txt",
+  "Kotlin-GWT.txt": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.4.10/license/third_party/gwt_license.txt",
+  "Kotlin-Guava.txt": "https://raw.githubusercontent.com/JetBrains/kotlin/v2.4.10/license/third_party/guava_license.txt",
+  "Coroutines-LICENSE.txt": "https://raw.githubusercontent.com/Kotlin/kotlinx.coroutines/1.11.0/LICENSE.txt",
+  "JSpecify-LICENSE.txt": "https://raw.githubusercontent.com/jspecify/jspecify/v1.0.0/LICENSE"
+}
